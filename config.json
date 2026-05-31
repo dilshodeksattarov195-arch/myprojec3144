@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productptringify",
+        "uuid": 6492360,
+        "checksum": "x0gsql"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
